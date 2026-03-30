@@ -1,7 +1,7 @@
 <h1 align="center">I'm Siberizm</h1>
 <h3 align="center">A cross platform developer from Turkiye</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siberizmbey&label=Profile%20views&color=0e75b6&style=flat" alt="siberizmbey" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=siberizmbey&label=Profile%20views&color=0e75b6&style=flat](https://avatars.githubusercontent.com/u/98494934?v=4)" alt="siberizmbey" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siberizmbey" alt="siberizmbey" /></a> </p>
 
