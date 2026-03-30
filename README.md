@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/render?type=waving&color=800020&height=200&section=header&text=SIBERIZM&fontSize=80&animation=fadeIn&fontColor=ffffff](https://capsule-render.vercel.app/api?type=waving&height=350&color=0d0d0d&text=Siberizm&textBg=false&fontColor=ffffff&desc=Build%20the%20unshakeable%20with%20invisible%20code.&section=header&descSize=16)" />
+  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/api?type=waving&height=300&color=0d0d0d&text=Siberizm&textBg=false&fontColor=ffffff&desc=Build%20the%20unshakeable%20with%20invisible%20code.&section=header&descSize=16&animation=fadeIn" />
 </p>
 
 <p align="center">
