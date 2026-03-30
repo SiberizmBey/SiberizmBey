@@ -41,7 +41,7 @@
 ---
 
 <p align="right">
-  <i>> **"Build the unshakeable with invisible code."** — *Siberizm*</i>
+  <i></i>
 </p>
 
-
+> **"Build the unshakeable with invisible code."** — *Siberizm*
