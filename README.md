@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/api?type=waving&color=800020&height=200&section=header&text=SIBERIZM&fontSize=80&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=800020&height=200&section=header&text=SIBERIZM&fontSize=80&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 <p align="center">
@@ -28,15 +28,15 @@
 ### 📊 Tactical Data Analysis
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=siberizmbey&show_icons=true&theme=vision-friendly-dark&bg_color=000000&title_color=800020&icon_color=800020&text_color=ffffff&hide_border=true" alt="Siberizm Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=siberizmbey&show_icons=true&theme=dark&bg_color=000000&title_color=800020&icon_color=800020&text_color=ffffff&hide_border=true" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siberizmbey&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&bg_color=000000&title_color=800020&icon_color=800020&text_color=ffffff&hide_border=true" alt="Siberizm Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=siberizmbey&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&title_color=800020&icon_color=800020&text_color=ffffff&hide_border=true" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siberizmbey&theme=tokyonight&background=000000&sideNums=800020&sideLabels=ffffff&dates=ffffff&ring=800020&stroke=800020&currStreakNum=800020&hide_border=true" alt="Siberizm Streak" />
+  <img src="https://streak-stats.demolab.com/?user=siberizmbey&theme=tokyonight&background=000000&sideNums=800020&sideLabels=ffffff&dates=ffffff&ring=800020&stroke=800020&currStreakNum=800020&hide_border=true" />
 </p>
 
 ---
