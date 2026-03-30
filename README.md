@@ -27,10 +27,6 @@
   <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siberizmbey&show_icons=true&locale=en&layout=compact" alt="siberizmbey" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siberizmbey&show_icons=true&locale=en" alt="siberizmbey" /></p>
-
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=siberizmbey&theme=tokyonight&background=000000&sideNums=800020&sideLabels=ffffff&dates=ffffff&ring=800020&stroke=800020&currStreakNum=800020" alt="Siberizm Streak" />
 </p>
