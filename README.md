@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/api?type=waving&height=300&color=0d0d0d&text=Siberizm&textBg=false&fontColor=ffffff&desc=Build%20the%20unshakeable%20with%20invisible%20code.&section=header&descSize=16&animation=fadeIn" />
+  <img src="https://img.shields.io/badge/SIBERIZM-Build%20the%20unshakeable%20with%20invisible%20code.-800020?style=for-the-badge&labelColor=000000" height="40"/>
 </p>
 
 <p align="center">
