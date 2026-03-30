@@ -32,5 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siberizmbey&show_icons=true&locale=en" alt="siberizmbey" /></p>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/siberizmbey?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&config.timezone=Europe%2FIstanbul&config.display=regular&config.animations=true&theme=dark" alt="Siberizm Metrics" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siberizmbey&theme=tokyonight&background=000000&sideNums=800020&sideLabels=ffffff&dates=ffffff&ring=800020&stroke=800020&currStreakNum=800020" alt="Siberizm Streak" />
 </p>
